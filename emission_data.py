@@ -13,8 +13,6 @@ emission_1990 = {
     1: 6.583,
 }
 
-
-
 The variable `country_data` is a nested dictionary, meaning a dictionary inside a dictionary.
 Each countries data is a dictionary inside the dictionary. The country name is the key and the value is
 a dictionary that has the follwing keys id, area and population. "id" is used to connect the key from
@@ -37,8 +35,6 @@ country_data = {
         'population': (3286070, 3086810, 2884169)
     },
 }
-
-
 
 Sources:
 emission data:

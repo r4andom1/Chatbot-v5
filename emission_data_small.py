@@ -37,9 +37,6 @@ country_data = {
         'population': (3286070, 3086810, 2884169)
     },
 }
-
-
-
 Sources:
 emission data:
     https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions#Fossil_CO2_emissions_by_country/region
